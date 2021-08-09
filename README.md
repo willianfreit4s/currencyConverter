@@ -3,7 +3,9 @@
 Um pequeno teste unitário foi feito para saber se estava tudo certo antes de efetuar as manipuçações na tela (view).
 
 Tela incial: 
-![image](https://user-images.githubusercontent.com/40728292/128760368-a13d24dd-b418-4021-a488-5bf2a2777372.png)
+
+![image](https://user-images.githubusercontent.com/40728292/128760416-382cf841-3d76-4518-b660-351f5f142c3e.png)
+
 
 
 ## Getting Started
