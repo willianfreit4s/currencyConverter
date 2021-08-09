@@ -2,6 +2,10 @@
 
 Um pequeno teste unitário foi feito para saber se estava tudo certo antes de efetuar as manipuçações na tela (view).
 
+Tela incial: 
+![image](https://user-images.githubusercontent.com/40728292/128760368-a13d24dd-b418-4021-a488-5bf2a2777372.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
