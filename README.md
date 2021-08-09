@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+Um pequeno teste unitário foi feito para saber se estava tudo certo antes de efetuar as manipuçações na tela (view).
 
 ## Getting Started
 
