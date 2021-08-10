@@ -29,7 +29,7 @@ class _HomeViewState extends State<HomeView> {
       body: SizedBox(
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
-        child: Padding(
+        child: SingleChildScrollView(
           padding: EdgeInsets.only(left: 30, right: 30, top: 100, bottom: 20),
           child: Column(
             children: [
