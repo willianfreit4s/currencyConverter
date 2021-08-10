@@ -1,6 +1,12 @@
 # currency_converter
 
-A new Flutter project.
+Um pequeno teste unitário foi feito para saber se estava tudo certo antes de efetuar as manipuçações na tela (view).
+
+Tela incial: 
+
+![image](https://user-images.githubusercontent.com/40728292/128760648-01daf0ca-443d-4dcb-80b4-d183a6734492.png)
+
+
 
 ## Getting Started
 
