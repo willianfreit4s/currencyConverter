@@ -30,7 +30,7 @@ class _HomeViewState extends State<HomeView> {
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
         child: SingleChildScrollView(
-          padding: EdgeInsets.only(left: 30, right: 30, top: 100, bottom: 20),
+          padding: EdgeInsets.only(left: 30, right: 30, top: 100, bottom: 22),
           child: Column(
             children: [
               Image.asset(
